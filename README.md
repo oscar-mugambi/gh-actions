@@ -1,1 +1,1 @@
-# gh-actions
+This repository is dedicated to practicing and experimenting with GitHub Actions. GitHub Actions is a powerful platform that allows automation of workflows directly within your GitHub repository. Here, various workflows are tested and developed to understand better how GitHub Actions can be used for continuous integration, continuous deployment, task automation, and more.
